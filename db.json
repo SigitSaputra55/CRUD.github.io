@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "name": "Sofi Nurul Afifah",
+      "alamat": "Megu",
+      "id": 1
+    },
+    {
+      "name": "Temu Asih",
+      "alamat": "Sendang",
+      "id":2
+    },
+    {
+      "name": "Viona Rahmawati",
+      "alamat": "Cirebon Timur",
+      "id":3
+    },
+    {
+      "name": "Umar Rahman",
+      "alamat": "Plered",
+      "id":4
+    },
+    {
+      "name": "Syaeful Annas",
+      "alamat": "Cirebon Timur",
+      "id":5
+    }
+  ]
+}
